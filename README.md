@@ -19,6 +19,22 @@ https://www.figma.com/proto/1tA1m8LSTvThiapJ8H1AOQ/Trabalho-Pr%C3%A1tico---Desig
 
 ---
 
+Protótipo (Screenshots)
+
+### Tela Inicial
+![Tela Inicial](./spotify/Tela1.png)
+
+### Tela de Pesquisa
+![Tela Pesquisa](./spotify/Tela2.png)
+
+### Tela de Playlist
+![Tela Playlist](./spotify/Tela3.png)
+
+### Tela de Player
+![Tela Player](./spotify/Tela4.png)
+
+---
+
 🛠️ Tecnologias e Ferramentas
 - [Figma](https://figma.com) – Design e prototipação.  
 - GitHub – Versionamento e documentação.  
