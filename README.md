@@ -17,8 +17,6 @@ Este projeto consiste em um **protótipo de aplicativo de streaming** desenvolvi
 O protótipo pode ser acessado diretamente no Figma através dos links abaixo:  
 https://www.figma.com/proto/1tA1m8LSTvThiapJ8H1AOQ/Trabalho-Pr%C3%A1tico---Design-de-Intera%C3%A7%C3%A3o?node-id=0-1&t=vf0IkJRPyW6lo43G-1
 
-https://www.figma.com/proto/1tA1m8LSTvThiapJ8H1AOQ/Trabalho-Pr%C3%A1tico---Design-de-Intera%C3%A7%C3%A3o?t=71FobaKYPIjCS1ZC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=3-58&starting-point-node-id=3%3A58
-
 ---
 
 🛠️ Tecnologias e Ferramentas
